@@ -1,1 +1,1 @@
-This is my first project tttotally developed alone, it is a password generator thatt can provide password that will have 8 or 25 caracters
+This is my first project ttotally developed alone, it is a password generator that can provide a password that will have from 8 to 25 caracters.
